@@ -1,2 +1,2 @@
 # Glam
-An individual API website project.
+GLAM Dog Grooming. This API project consist on a responsive website application designed and developed for a dog grooming services website. A clean and minimalist website that reflects the style of the brand. This website includes Google Maps API showing the store location for easier client use. My role: Individual project. Technologies used: No framework. HTML, CSS, JavaScript, and Google Maps API.
